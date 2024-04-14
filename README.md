@@ -1,2 +1,7 @@
 # Hunters-Royal-Game
-Welcome to Hunters Royal ! This is a local multiplayer 2D hunting game with dynamic animals, a competitive points system, levels, and more !
+You can play against your adversary on the same computer, same keyboard. 
+
+
+
+
+![image](https://github.com/Ibrahimelz/Hunters-Royal-Game/assets/143450229/e470ea65-69be-4680-906e-72c713774fa3)
