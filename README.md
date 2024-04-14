@@ -1,7 +1,2 @@
 # Hunters-Royal-Game
-You can play against your adversary on the same computer, same keyboard. 
-
-
-
-
-![image](https://github.com/Ibrahimelz/Hunters-Royal-Game/assets/143450229/e470ea65-69be-4680-906e-72c713774fa3)
+In this game, you can play against your adversary on the same computer, using the same keyboard. The game involves shooting animals from a third-person shooter Point of View (POV) and earning points for each kill. Killing a small animal will earn the player 100 points. Additionally, there will be larger animals with twice the health, each worth 250 points. The score will be recorded and displayed at the top right of the screen for player one and at the top left for player two, ensuring clarity for both players. A random number of animals spawn at random locations. The minimum and maximum number of animals spawned will be 15. Hunting rifles are used, possessing attributes similar to real ones. In fact, these rifles have a slow fire rate. Consequently, small animals require only one shot to be killed, while large animals require two. To make it more interesting and competitive, players can lose points if they are hit by bullets from the opposing player. Each hit will result in a loss of 50 points. Both players have an infinite number of bullets. But that’s not all; there’s even more to this game!
