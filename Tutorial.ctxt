@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Tutorial
+comment0.text=\r\n\ this\ is\ the\ Tutorial\ class\ where\ we\ show\ a\ little\ bit\ of\ the\ game\ to\r\n\ understand\ everything\ before\ playing\ the\ whole\ game\r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Tutorial()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Tutorial.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=message\ x\ y
+comment3.target=void\ showTextWithBigWhiteFont(java.lang.String,\ int,\ int)
+comment4.params=
+comment4.target=void\ prepare()
+comment4.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=5
