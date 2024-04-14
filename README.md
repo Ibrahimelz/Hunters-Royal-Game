@@ -1,5 +1,4 @@
 # Hunters-Royal-Game
-Welcome to Hunters Royal !
 You can play against your adversary on the same computer, same keyboard. 
 
 
